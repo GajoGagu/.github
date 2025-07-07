@@ -3,7 +3,7 @@
 ### 📁 Repository Overview
 | Repository                                                    | Description                    | Stack                |
 | ------------------------------------------------------------- | ------------------------------ | -------------------- |
-| [`website`](https://github.com/GajoGagu/website)              | 팀 소개 및 데모용 정적 페이지  | Nuxt.js              |
+| [`gajogagu`](https://github.com/GajoGagu/gajogagu)              | 팀 소개 및 데모용 정적 페이지  | Nuxt.js              |
 | [`flutter-app`](https://github.com/GajoGagu/flutter-app)      | 사용자용 모바일 프론트엔드 앱 | Flutter              |
 | [`api-server`](https://github.com/GajoGagu/api-server)        | 중고 가구 거래용 백엔드 API 서버 | TypeScript (Node.js) |
 | [`dl-server`](https://github.com/GajoGagu/dl-server)          | 이미지 기반 유사 제품 추천 서버 | Python, FastAPI      |
